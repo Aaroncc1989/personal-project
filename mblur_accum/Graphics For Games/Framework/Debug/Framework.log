@@ -1,0 +1,36 @@
+﻿Build started 2014/11/3 16:38:15.
+     1>Project "D:\vcspace\Graphic\Graphics For Games\Framework\Framework.vcxproj" on node 2 (Rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\Framework.lastbuildstate".
+       InitializeBuildStatus:
+         Touching "Debug\Framework.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Camera.cpp GameTimer.cpp Keyboard.cpp Matrix4.cpp Mesh.cpp Mouse.cpp OBJMesh.cpp Shader.cpp OGLRenderer.cpp Quaternion.cpp Window.cpp
+         Window.cpp
+     1>c1xx : fatal error C1083: Cannot open source file: 'Window.cpp': No such file or directory
+         Quaternion.cpp
+     1>d:\vcspace\graphic\graphics for games\framework\quaternion.cpp(1): fatal error C1083: Cannot open include file: 'Quaternion.h': No such file or directory
+         OGLRenderer.cpp
+     1>c1xx : fatal error C1083: Cannot open source file: 'OGLRenderer.cpp': No such file or directory
+         Shader.cpp
+     1>c1xx : fatal error C1083: Cannot open source file: 'Shader.cpp': No such file or directory
+         OBJMesh.cpp
+     1>d:\vcspace\graphic\graphics for games\framework\objmesh.h(77): fatal error C1083: Cannot open include file: 'Vector3.h': No such file or directory
+         Mouse.cpp
+     1>c1xx : fatal error C1083: Cannot open source file: 'Mouse.cpp': No such file or directory
+         Mesh.cpp
+     1>c1xx : fatal error C1083: Cannot open source file: 'Mesh.cpp': No such file or directory
+         Matrix4.cpp
+     1>c1xx : fatal error C1083: Cannot open source file: 'Matrix4.cpp': No such file or directory
+         Keyboard.cpp
+     1>c1xx : fatal error C1083: Cannot open source file: 'Keyboard.cpp': No such file or directory
+         GameTimer.cpp
+     1>c1xx : fatal error C1083: Cannot open source file: 'GameTimer.cpp': No such file or directory
+         Camera.cpp
+     1>c1xx : fatal error C1083: Cannot open source file: 'Camera.cpp': No such file or directory
+         Generating Code...
+     1>Done Building Project "D:\vcspace\Graphic\Graphics For Games\Framework\Framework.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.38

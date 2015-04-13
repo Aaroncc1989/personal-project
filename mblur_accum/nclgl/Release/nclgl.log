@@ -1,0 +1,66 @@
+﻿Build started 2015/2/10 22:51:54.
+     1>Project "D:\example\motion blur demo\nclgl\nclgl.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Camera.cpp CubeRobot.cpp Frustum.cpp GameTimer.cpp HeightMap.cpp Keyboard.cpp Matrix4.cpp MD5Anim.cpp MD5FileData.cpp MD5Mesh.cpp MD5Node.cpp Mesh.cpp Mouse.cpp OBJMesh.cpp OGLRenderer.cpp Plane.cpp Quaternion.cpp SceneNode.cpp Shader.cpp Window.cpp
+         Camera.cpp
+     1>d:\example\motion blur demo\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         CubeRobot.cpp
+     1>d:\example\motion blur demo\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         Frustum.cpp
+     1>d:\example\motion blur demo\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         GameTimer.cpp
+         HeightMap.cpp
+     1>d:\example\motion blur demo\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         Keyboard.cpp
+     1>d:\example\motion blur demo\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         Matrix4.cpp
+         MD5Anim.cpp
+     1>d:\example\motion blur demo\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         MD5FileData.cpp
+     1>d:\example\motion blur demo\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         MD5Mesh.cpp
+     1>d:\example\motion blur demo\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         MD5Node.cpp
+     1>d:\example\motion blur demo\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         Mesh.cpp
+     1>d:\example\motion blur demo\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         Mouse.cpp
+         OBJMesh.cpp
+     1>d:\example\motion blur demo\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         OGLRenderer.cpp
+     1>d:\example\motion blur demo\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         Plane.cpp
+         Quaternion.cpp
+         SceneNode.cpp
+     1>d:\example\motion blur demo\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         Shader.cpp
+     1>d:\example\motion blur demo\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         Window.cpp
+     1>d:\example\motion blur demo\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"D:\example\motion blur demo\Graphics For Games\Release\nclgl.lib" /NOLOGO /LTCG Release\Camera.obj
+         Release\CubeRobot.obj
+         Release\Frustum.obj
+         Release\GameTimer.obj
+         Release\HeightMap.obj
+         Release\Keyboard.obj
+         Release\Matrix4.obj
+         Release\MD5Anim.obj
+         Release\MD5FileData.obj
+         Release\MD5Mesh.obj
+         Release\MD5Node.obj
+         Release\Mesh.obj
+         Release\Mouse.obj
+         Release\OBJMesh.obj
+         Release\OGLRenderer.obj
+         Release\Plane.obj
+         Release\Quaternion.obj
+         Release\SceneNode.obj
+         Release\Shader.obj
+         Release\Window.obj
+         nclgl.vcxproj -> D:\example\motion blur demo\Graphics For Games\Release\nclgl.lib
+     1>Done Building Project "D:\example\motion blur demo\nclgl\nclgl.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.98
